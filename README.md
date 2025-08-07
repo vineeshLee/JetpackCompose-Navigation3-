@@ -1,4 +1,4 @@
-# Project Name: Compose Navigation 3 With Bottom Navigation
+# Navigation 3 With Bottom Navigation
 
 This project demonstrates the use of the **Navigation 3 library** for implementing navigation within an Android application, specifically showcasing a **Bottom Navigation** pattern. It leverages Kotlinx Serialization for type-safe argument passing between destinations.
 
